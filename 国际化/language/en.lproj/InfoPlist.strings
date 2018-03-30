@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  国际化
+
+  Created by 神州锐达 on 2018/3/29.
+  Copyright © 2018年 onePiece. All rights reserved.
+*/
+
+// App在英文环境环境下显示的名称
+CFBundleDisplayName = "china";
